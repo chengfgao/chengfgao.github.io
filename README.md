@@ -25,7 +25,7 @@ The supplied biography is preserved verbatim. LinkedIn and X profiles are popula
 
 ### Add your CV
 
-Place the real PDF at `assets/cv.pdf`. The CV page detects it, embeds the full document, and enables the download button. Mobile browsers without embedded PDF support can use the download link. No fabricated CV is included.
+The CV page embeds `cv/fg_cv_nov26.pdf` and provides a download link. To replace the CV, overwrite this file or update both PDF paths in `cv/index.html`. Mobile browsers without embedded PDF support can use the download link.
 
 ### Publications
 
