@@ -16,7 +16,7 @@ Each section is a separate HTML page, editable in any text editor or GitHub's fi
 
 - `about/index.html`: the verbatim supplied biography and social icons. **Also update `index.html`**, which contains the same About page at the site root (root-relative links there use `./` instead of `../`).
 - `cv/index.html`: CV introduction and display area.
-- `projects/index.html`: duplicate the commented `<article class="work-card">` block for each paper. Fill in title, authors, venue/year, summary, and your contribution. Replace placeholder link spans with `<a href="VERIFIED_URL">Paper ↗</a>` or `Code ↗`. Omit code links when no repository exists.
+- `publications/index.html`: duplicate the commented `<article class="work-card">` block for each paper. Fill in title, authors, venue/year, summary, and your contribution. Replace placeholder link spans with `<a href="VERIFIED_URL">Paper ↗</a>` or `Code ↗`. Omit code links when no repository exists.
 - `writing/index.html`: duplicate the article block for each piece and replace its placeholder link with the real URL.
 - `fun/index.html`: intentionally empty below the heading.
 - `assets/style.css`: colors, typography, and layout.
